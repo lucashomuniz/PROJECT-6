@@ -18,15 +18,15 @@ Initially, the business problem is defined and the dataset is selected, such as 
 
 Next, variable selection and filter methods are introduced. As explained earlier, this project is developed in parallel both in R Language and in Azure Machine Learning. Thus, within Azure Machine Learning, two packages were created to select the variables, namely: “Filter Based Feature Selection” and “Permutation Feature Importance”. A third algorithm for the selection of the main variables was developed in Language R, when comparing the three, it is clear that the algorithm written in Language R with Random Forrest has a better performance, and therefore we will continue with it.
 
-![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/0dcafa63-e4c9-4a5d-85d1-0885083ab6e9)
+![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/d7110c5a-6e9a-4ec0-9a08-af2bb94c03b8)
 
 The experiment is built around four algorithms (three in Azure and one in R). The three predictive models of Azure Machine Learning are Bayesian, Neural Network and SVM. Models are trained, their results interpreted and evaluated with appropriate metrics. Comparing the models helps to identify the most effective one. 
 
-![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/072ded70-1d67-4ab7-a9b4-adf83ad17522)
+![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/5db634ce-bfa4-4b61-afe4-27ab7c565044)
 
 Initially comparing the Bayesian Algorithm (Blue Line) and the Neural Network Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the Bayesian Algorithm has a better performance, with an accuracy of almost 68%. Comparing the Neural Network Algorithm (Blue Line) with the SVM Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the SVM Algorithm has a better performance, with an accuracy of 64%. Among the three models, the one with the best result was the Bayesian Algorithm and the one with the worst result was the Neural Network Algorithm. Finally, a script was created in R Language to develop a machine learning algorithm and thus compare the results with those obtained within Azure Machine Learning. After developing the model training, the model test was elaborated. With this, it was possible to reach an accuracy of approximately 77%, surpassing the accuracy of the algorithms present in Azure Machine Learning.
 
-![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/7c2334e9-b02c-4cb5-93ea-4387c1e9039c)
+![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/2037ad27-5730-4ec8-8bcd-2e284ec8bb73)
 
 # ✅ CONCLUSION
 
