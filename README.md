@@ -24,9 +24,11 @@ The experiment is built around four algorithms (three in Azure and one in R). Th
 
 ![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/5db634ce-bfa4-4b61-afe4-27ab7c565044)
 
-Initially comparing the Bayesian Algorithm (Blue Line) and the Neural Network Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the Bayesian Algorithm has a better performance, with an accuracy of almost 68%. Comparing the Neural Network Algorithm (Blue Line) with the SVM Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the SVM Algorithm has a better performance, with an accuracy of 64%. Among the three models, the one with the best result was the Bayesian Algorithm and the one with the worst result was the Neural Network Algorithm. Finally, a script was created in R Language to develop a machine learning algorithm and thus compare the results with those obtained within Azure Machine Learning. After developing the model training, the model test was elaborated. With this, it was possible to reach an accuracy of approximately 77%, surpassing the accuracy of the algorithms present in Azure Machine Learning.
+Initially comparing the Bayesian Algorithm (Blue Line) and the Neural Network Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the Bayesian Algorithm has a better performance, with an accuracy of almost 68%. Comparing the Neural Network Algorithm (Blue Line) with the SVM Algorithm (Red Line). Looking at the graph of the R.O.C Curve, it is possible to notice that the SVM Algorithm has a better performance, with an accuracy of 64%. Among the three models, the one with the best result was the Bayesian Algorithm and the one with the worst result was the Neural Network Algorithm. 
 
 ![image](https://github.com/lucashomuniz/PROJECT-6/assets/123151332/2037ad27-5730-4ec8-8bcd-2e284ec8bb73)
+
+Finally, a script was created in R Language to develop a machine learning algorithm and thus compare the results with those obtained within Azure Machine Learning. After developing the model training, the model test was elaborated. With this, it was possible to reach an accuracy of approximately 77%, surpassing the accuracy of the algorithms present in Azure Machine Learning.
 
 # ✅ CONCLUSION
 
