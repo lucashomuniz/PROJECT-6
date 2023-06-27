@@ -4,7 +4,7 @@ This project aims to develop a predictive model to assess the credit risk of cus
 
 This project was developed in parallel using both the R programming language and Microsoft Azure Machine Learning Studio. R language provides a powerful and flexible environment for statistical analysis and modeling, while Azure Machine Learning Studio offers a cloud-based platform for building and deploying machine learning models. By leveraging these tools, the team could benefit from the strengths of each platform and choose the most suitable one based on their requirements and preferences. This approach demonstrates the versatility and adaptability of the project, as it was able to leverage different tools to achieve the desired outcome.
 
-Keywords: R Language, Microsoft Azure Big Data, Data Analysis, S.M.O.T, Bayesian, Neural Network, S.V.M, Credit Analysis, Bank
+Keywords: R Language, Microsoft Azure Machine Learning, Big Data, Data Analysis, S.M.O.T, Bayesian, Neural Network, S.V.M, Credit Analysis, Bank Account.
 
 # ✅ PROCESS
 
