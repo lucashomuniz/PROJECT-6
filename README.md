@@ -1,4 +1,10 @@
+# ✅ PROJECT-6
 
+This project aims to develop a predictive model to assess the credit risk of customers in a banking institution. The purpose is to demonstrate the construction process of a classification model capable of predicting the risk associated with granting credit to bank customers. We will use a data set to train and build the model, aiming to predict the risk presented by each client when applying for a credit line. The accuracy of the predictive model is crucial, since granting credit to a customer with low payment capacity can result in significant losses for the bank. The target variable of this project is CreditStatus. In addition, we intend to compare machine learning algorithms available in Azure, such as Bayesian, Neural Network and SVM.
+
+This project was developed in parallel using both the R programming language and Microsoft Azure Machine Learning Studio. R language provides a powerful and flexible environment for statistical analysis and modeling, while Azure Machine Learning Studio offers a cloud-based platform for building and deploying machine learning models. By leveraging these tools, the team could benefit from the strengths of each platform and choose the most suitable one based on their requirements and preferences. This approach demonstrates the versatility and adaptability of the project, as it was able to leverage different tools to achieve the desired outcome.
+
+Keywords: R Language, Microsoft Azure Machine Learning, Big Data, Data Analysis, S.M.O.T, Bayesian, Neural Network, S.V.M, Credit Analysis, Bank Account.
 
 # ✅ PROCESS
 
