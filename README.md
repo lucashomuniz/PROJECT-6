@@ -1,4 +1,4 @@
-# ✅ PROJECT-6
+# ✅ PROJECT-06
 
 This project aims to develop a predictive model to assess the credit risk of customers in a banking institution. The purpose is to demonstrate the construction process of a classification model capable of predicting the risk associated with granting credit to bank customers. We will use a data set to train and build the model, aiming to predict the risk presented by each client when applying for a credit line. The accuracy of the predictive model is crucial, since granting credit to a customer with low payment capacity can result in significant losses for the bank. The target variable of this project is CreditStatus. In addition, we intend to compare machine learning algorithms available in Azure, such as Bayesian, Neural Network and SVM.
 
